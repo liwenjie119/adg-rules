@@ -1,0 +1,45 @@
+127.0.0.1 api.tv.sohu.com
+127.0.0.1 feedback.71.am
+127.0.0.1 img3.funshion.com
+127.0.0.1 irs01.com
+127.0.0.1 lives.l.qq.com
+127.0.0.1 m.aty.sohu.com
+127.0.0.1 py.da.mgtv.com
+127.0.0.1 qc.hd.sohu.com.cn
+127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 y.da.hunantv.com
+||*martrix_bbs.gif
+||*martrix_bbs.jpg
+||01bz.net^
+||4r.c691t.cn
+||ads.service.kugou.com
+||adserviceretry.kglink.cn
+||adserviceretry.kugou.com
+||buyujj.club^$important
+||dioimg.net^$important
+||diyibanzhu
+||ed.g2q3e.cn^$important
+||extshort.weixin.qq.com/mmtls^$app=com.tencent.mm
+||img599.net^$important
+||jianzhi456.com^$important
+||jingwoxin.com^$important
+||m.dpisfzv.cn
+||mao.1f866.com^$important
+||minorshort.weixin.qq.com/mmtls^$app=com.tencent.mm
+||mp.weixin.qq.com/mp/advertisement^
+||mp.weixin.qq.com/mp/getappmsgad^
+||nz04com.com^$important
+||oimageb7.ydstatic.com^$important
+||packet.cf^$important
+||qqpublic.qpic.cn
+||track.uc.cn^
+||track.uc.cn^$important
+||v.jingwoxin.com/huobao/2114/index.html^$important
+||v.jingwoxin.com^$important
+||vs1.szcu.u3.ucweb.com^
+||vs2.bjct.u3.ucweb.com^
+||vs2.bjct.u3.ucweb.com^$important
+||www.nagekuai.com/wp-content/themes/cloud/aliyun/youhui.jpg
+||www.qtlianmeng.com
+||www.sxeimg.com^$important
+||xiaoluoyl.com^$important
