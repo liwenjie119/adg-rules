@@ -1,6 +1,7 @@
 ! Title: LWJ's black list
 ! Last modified: 2020-03-29 19:53
 !
+||adsfileretry.service.kugou.com
 ||api.tv.sohu.com
 ||feedback.71.am
 ||img3.funshion.com
