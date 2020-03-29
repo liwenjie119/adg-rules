@@ -1,13 +1,13 @@
-127.0.0.1 api.tv.sohu.com
-127.0.0.1 feedback.71.am
-127.0.0.1 img3.funshion.com
-127.0.0.1 irs01.com
-127.0.0.1 lives.l.qq.com
-127.0.0.1 m.aty.sohu.com
-127.0.0.1 py.da.mgtv.com
-127.0.0.1 qc.hd.sohu.com.cn
-127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 y.da.hunantv.com
+||api.tv.sohu.com
+||feedback.71.am
+||img3.funshion.com
+||irs01.com
+||lives.l.qq.com
+||m.aty.sohu.com
+||py.da.mgtv.com
+||qc.hd.sohu.com.cn
+||t7z.cupid.iqiyi.com
+||y.da.hunantv.com
 ||*martrix_bbs.gif
 ||*martrix_bbs.jpg
 ||01bz.net^
