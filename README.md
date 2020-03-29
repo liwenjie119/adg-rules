@@ -10,4 +10,5 @@
 3. 如果在使用过程中有抓到新广告域名或者需要添加的白名单，欢迎提issue
 
 黑名单： https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt
+
 白名单： https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt
