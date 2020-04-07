@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-04-05 18:33
+! Last modified: 2020-04-07 21:41
 !
 !短链接
 @@goo.gl
@@ -59,6 +59,7 @@
 @@||ts.market.mi-img.com^$important
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||t3.market.mi-img.com^$important
+@@||app-measurement.com^$important
 !
 !阿里系
 @@s.click.taobao.com
@@ -169,7 +170,6 @@
 @@guoqiangti.cf
 @@mp4.ts
 @@||api.rikka.app^$important
-@@||diyibanzhu
 @@||duiba.com.cn^$important
 @@||dxx.wwwtop.top^$important
 @@||f.51240.com^$important
