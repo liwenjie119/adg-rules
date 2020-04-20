@@ -60,6 +60,8 @@
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||t3.market.mi-img.com^$important
 @@||app-measurement.com^$important
+@@||exp.sug.browser.miui.com^$important
+@@||mi.com^$important
 !
 !阿里系
 @@s.click.taobao.com
