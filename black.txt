@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2020-04-20 08:29
+! Last modified: 2020-04-22 16:20
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -39,7 +39,6 @@
 ||4r.c691t.cn
 ||buyujj.club^$important
 ||dioimg.net^$important
-||diyibanzhu
 ||ed.g2q3e.cn^$important
 ||extshort.weixin.qq.com/mmtls^$app=com.tencent.mm
 ||img599.net^$important
