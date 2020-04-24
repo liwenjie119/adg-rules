@@ -179,7 +179,7 @@
 @@||kyaru-concat.now.sh^$important
 @@||lhl.zxcs.linghit.com^$important
 @@||yun.rili.cn^$important
-
+@@||www.counter-strike.net^$important
 
 
 
