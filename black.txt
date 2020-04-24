@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2020-04-22 15:36
+! Last modified: 2020-04-24 10:16
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -30,6 +30,7 @@
 ||qqpublic.qpic.cn
 !
 !其他杂项
+||_services._dns-sd._udp.local
 ||feedback.71.am
 ||img3.funshion.com
 ||irs01.com
