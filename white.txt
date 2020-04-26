@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-04-20 08:29
+! Last modified: 2020-04-26 08:29
 !
 !短链接
 @@goo.gl
@@ -150,6 +150,7 @@
 @@||self.events.data.microsoft.com^$important
 @@||bing.com^$important
 @@||instagram.com^$important
+@@||*.twimg.com^$important
 !
 !国内大站/app
 @@||zkres.myzaker.com^$important
