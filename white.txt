@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-05-2 9:39
+! Last modified: 2020-05-2 22:15
 !
 !短链接
 @@goo.gl
@@ -62,6 +62,9 @@
 @@||app-measurement.com^$important
 @@||exp.sug.browser.miui.com^$important
 @@||mi.com^$important
+#小米视频
+@@||mivideo.cdn.pandora.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
 !
 !阿里系
 @@s.click.taobao.com
