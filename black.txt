@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2020-04-30 10:25
+! Last modified: 2020-05-2 9:25
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -66,7 +66,7 @@
 !一些奇怪的大量请求
 ||5hz.org^$important
 ||pizzaseo.com^$important
-||t.quic.ws^$important
+
 !
 !色情广告
 ||21511.ua96.com
