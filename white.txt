@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-04-28 14:39
+! Last modified: 2020-05-2 9:39
 !
 !短链接
 @@goo.gl
@@ -182,7 +182,7 @@
 @@||yun.rili.cn^$important
 @@||counter-strike.net^$important
 @@||www.chemdraw.com.cn^$important
-
+@@||pool.v6.bt.n0808.com
 
 
 
