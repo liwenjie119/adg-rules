@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-05-3 8:15
+! Last modified: 2020-05-3 9:35
 !
 !短链接
 @@goo.gl
@@ -111,12 +111,13 @@
 @@||stat.y.qq.com^$important
 @@||tbs.imtt.qq.com^$important
 @@||vectorsdk.map.qq.com^$important
-@@||view.inews.qq.com^$important
 @@||work.weixin.qq.com^$important
 @@||weidian.com^$important
-#@@||inews.gtimg.com^$important
 @@||qlogo.cn^$important
 @@||thirdwx.qlogo.cn^$important
+#腾讯新闻
+@@||inews.gtimg.com^$important
+@@||view.inews.qq.com^$important
 !
 !网易系
 @@||126.net^$important
