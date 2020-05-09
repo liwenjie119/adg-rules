@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-05-3 9:35
+! Last modified: 2020-05-9 19:58
 !
 !短链接
 @@goo.gl
@@ -24,8 +24,6 @@
 !
 !小米系
 @@m.video.xiaomi.com
-@@t1.market.xiaomi.com
-@@verify.sec.xiaomi.com
 @@||api.account.xiaomi.com^$important
 @@||api.comm.miui.com^$important
 @@||api.device.xiaomi.net^$important
@@ -52,13 +50,11 @@
 @@||pdc.micloud.xiaomi.net^$important
 @@||phonecallapi.micloud.xiaomi.net^$important
 @@||resolver.msg.xiaomi.net^$important
-@@||sec.resource.xiaomi.net^$important
 @@||sfsapi.micloud.xiaomi.net^$important
 @@||update.miui.com^$important
 @@||ssl-cdn.static.browser.mi-img.com^$important
 @@||ts.market.mi-img.com^$important
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
-@@||t3.market.mi-img.com^$important
 @@||app-measurement.com^$important
 @@||exp.sug.browser.miui.com^$important
 @@||mi.com^$important
@@ -69,6 +65,14 @@
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^$important
 @@||w.pandora.xiaomi.com^$important
+#应用商店
+@@||sec-cdn.static.xiaomi.net^$important
+@@||fgc0.market.xiaomi.com^$important
+@@||fga0.market.xiaomi.com^$important
+@@||t3.market.mi-img.com^$important
+@@||sec.resource.xiaomi.net^$important
+@@t1.market.xiaomi.com
+@@verify.sec.xiaomi.com
 !
 !阿里系
 @@s.click.taobao.com
