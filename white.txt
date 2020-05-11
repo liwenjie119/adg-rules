@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-05-9 19:58
+! Last modified: 2020-05-11 13:00
 !
 !短链接
 @@goo.gl
@@ -73,6 +73,10 @@
 @@||sec.resource.xiaomi.net^$important
 @@t1.market.xiaomi.com
 @@verify.sec.xiaomi.com
+#主题商店
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||market.mi-img.com^$important
 !
 !阿里系
 @@s.click.taobao.com
