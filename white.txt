@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-05-12 8:00
+! Last modified: 2020-05-14 8:00
 !
 !短链接
 @@goo.gl
@@ -13,14 +13,21 @@
 @@||t.me^$important
 !
 !google系
-@@googlevideo.com
 @@||facebook.com^$important
-@@*.ggpht.com
 @@||m.youtube.com^$important
 @@||www.google.com^$important
 @@||www.youtube.com^$important
 @@||youtu.be^$important
 @@||youtubei.googleapis.com^$important
+@@||apis.google.com
+@@||clients.l.google.com
+@@||clients1.google.com
+@@||gstatic.com
+@@||manifest.googlevideo.com
+@@||i.ytimg.com
+@@||www.gstatic.com
+@@||www.youtube-nocookie.com
+@@||youtube-nocookie.com
 !
 !小米系
 @@m.video.xiaomi.com
