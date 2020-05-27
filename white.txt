@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-05-21 19:50
+! Last modified: 2020-05-27 15:57
 !
 !短链接
 @@goo.gl
@@ -30,6 +30,17 @@
 @@||youtube-nocookie.com
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
+@@||xn--ngstr-lra8j.com^$important
+@@||r3---sn-a5mlrn7r.googlevideo.com^$important
+@@||apis.google.com
+@@||clients.l.google.com
+@@||clients1.google.com
+@@||gstatic.com
+@@||manifest.googlevideo.com
+@@||i.ytimg.com
+@@||www.gstatic.com
+@@||www.youtube-nocookie.com
+@@||youtube-nocookie.com
 !
 !小米系
 @@m.video.xiaomi.com
@@ -179,6 +190,7 @@
 @@||bing.com^$important
 @@||instagram.com^$important
 @@||*.twimg.com^$important
+@@||reddit
 !
 !国内大站/app
 @@||zkres.myzaker.com^$important
