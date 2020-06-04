@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2020-05-12 8:00
+! Last modified: 2020-06-0422:20
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -73,3 +73,5 @@
 ||i.loli.net
 ||inews.gtimg.com
 ||cbu01.alicdn.com/img/ibank/*
+||tyc20202.com^$important
+||tu2.jinpaigz.com
