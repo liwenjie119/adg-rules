@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-06-06 15:53
+! Last modified: 2020-06-12 14:12
 !
 !短链接
 @@goo.gl
@@ -123,6 +123,9 @@
 @@||ip.taobao.com^$important
 @@||*.alipay.com^$important
 @@||alicdn.com^$important
+#代理游戏
+@@||na61-na62.wagbridge.advertisement.alibabacorp.com.gds.alibabadns.com^$important
+@@||na61-na62.wagbridge.advertisement.alibabacorp.com^$important
 !
 !腾讯系
 @@||btrace.qq.com^$important
