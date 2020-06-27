@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-06-20 18:12
+! Last modified: 2020-06-27 9:12
 !
 !短链接
 @@goo.gl
@@ -113,6 +113,7 @@
 @@||uczzd.cn^$important
 @@||cl2.webterren.com^$important
 @@||mparticle.uc.cn^$important
+@@||alissl.ucdl.pp.uc.cn^$important
 @@||iflow.uc.cn^$important
 @@||unet.ucweb.com^$important
 @@||image.uc.cn^$important
