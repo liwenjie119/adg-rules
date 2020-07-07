@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-06-27 9:12
+! Last modified: 2020-07-07 11:12
 !
 !短链接
 @@goo.gl
@@ -30,6 +30,7 @@
 @@||youtube-nocookie.com
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
+@@||r4---sn-a5meknek.googlevideo.com^$important
 @@||xn--ngstr-lra8j.com^$important
 @@||r3---sn-a5mlrn7r.googlevideo.com^$important
 !
@@ -114,6 +115,7 @@
 @@||cl2.webterren.com^$important
 @@||mparticle.uc.cn^$important
 @@||alissl.ucdl.pp.uc.cn^$important
+@@||downum.game.uc.cn^$important
 @@||iflow.uc.cn^$important
 @@||unet.ucweb.com^$important
 @@||image.uc.cn^$important

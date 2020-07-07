@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2020-06-24 11:53
+! Last modified: 2020-07-07 11:14
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -40,7 +40,7 @@
 ||irs01.com
 ||*martrix_bbs.gif
 ||*martrix_bbs.jpg
-||01bz^
+||01bz
 ||4r.c691t.cn
 ||buyujj.club^$important
 ||dioimg.net^$important
