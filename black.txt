@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2020-08-27 11:14
+! Last modified: 2020-09-02 19:09
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -83,3 +83,7 @@
 ||eo.umlzk.xyz^$important
 ||f.gxrwc.xyz^$important
 ||d.rzskdw.cn^$important
+||l.infwd.xyz
+||mo.umlzk.xyz^$important
+||eo.umlzk.xyz^$important
+||l.pnsblw.cn^$important
