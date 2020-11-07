@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2020-09-02 19:09
+! Last modified: 2020-11-7 23:20
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -70,7 +70,6 @@
 !
 !色情广告
 ||21511.ua96.com
-||i.loli.net
 ||inews.gtimg.com
 ||cbu01.alicdn.com/img/ibank/*
 ||tyc20202.com^$important
@@ -87,3 +86,19 @@
 ||mo.umlzk.xyz^$important
 ||eo.umlzk.xyz^$important
 ||l.pnsblw.cn^$important
+||diyibanzhu^$important
+||f.gxrwc.xyz^$important
+||l.pnsblw.cn
+||ll.axyim.cn^$important
+||kr.axyqd.cn^$important
+||sdk.nouzhu.cn
+||l.infwd.xyz
+||mo.umlzk.xyz^$important
+||eo.umlzk.xyz^$important
+||f.gxrwc.xyz^$important
+||d.rzskdw.cn^$important
+||l.pnsblw.cn^$important
+||ll.axyim.cn^$important
+||open.lalanuz.cn^$important
+||kr.axyqd.cn^$important
+||dybz^$important

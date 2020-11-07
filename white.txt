@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-07-20 20:42
+! Last modified: 2020-11-7 23:24
 !
 !短链接
 @@goo.gl
@@ -173,6 +173,7 @@
 @@||lol.qq.com^$important
 @@||lpl.qq.com^$important
 @@||logs.game.qq.com^$important
+@@||cn.ekg.riotgames.com^$important
 #腾讯新闻
 @@||inews.gtimg.com^$important
 @@||view.inews.qq.com^$important
@@ -306,3 +307,4 @@
 @@||gcable.com.cn^$important
 @@||96956.com.cn^$important
 @@||uee.me^$important
+@@||www.kanjiantu.com^$important
