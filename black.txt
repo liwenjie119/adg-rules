@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2020-11-7 23:20
+! Last modified: 2020-12-20 22:47
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -68,7 +68,7 @@
 ||pizzaseo.com^$important
 
 !
-!色情广告
+!各种奇葩色情广告
 ||21511.ua96.com
 ||inews.gtimg.com
 ||cbu01.alicdn.com/img/ibank/*
@@ -102,3 +102,5 @@
 ||open.lalanuz.cn^$important
 ||kr.axyqd.cn^$important
 ||dybz^$important
+||m.nnhtf.cn^$important
+||kr.axyqd.cn^$important

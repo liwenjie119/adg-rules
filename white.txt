@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-11-7 23:24
+! Last modified: 2020-12-20 22:46
 !
 !短链接
 @@goo.gl
@@ -34,6 +34,7 @@
 @@||r4---sn-a5meknek.googlevideo.com^$important
 @@||xn--ngstr-lra8j.com^$important
 @@||r3---sn-a5mlrn7r.googlevideo.com^$important
+@@||gvt1.com^$important
 !
 !小米系
 @@m.video.xiaomi.com
@@ -204,6 +205,7 @@
 @@||mbd.baidu.com^$important
 @@||t7.baidu.com^$important
 @@||cpu.baidu.com^$important
+@@||baijiahao.baidu.com^$important
 !
 !新浪
 @@||free.sinaimg.cn^$important
@@ -230,6 +232,8 @@
 @@||mjrpay.jd.com^$important
 @@||cfm.jd.com^$important
 @@||jr.jd.com^$important
+@@||mars.jd.com^$important
+@@||wqsd.jd.com
 !海外
 @@||raw.githubusercontent.com^$important
 @@||self.events.data.microsoft.com^$important
@@ -308,3 +312,6 @@
 @@||96956.com.cn^$important
 @@||uee.me^$important
 @@||www.kanjiantu.com^$important
+@@||analytics.yinxiang.com^$important
+@@||pic.mairuan.com^$important
+@@||dataprajna.net^$important
