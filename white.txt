@@ -206,6 +206,7 @@
 @@||t7.baidu.com^$important
 @@||cpu.baidu.com^$important
 @@||baijiahao.baidu.com^$important
+@@||sp1.baidu.com^$important
 !
 !新浪
 @@||free.sinaimg.cn^$important
