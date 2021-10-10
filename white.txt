@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2020-12-20 22:46
+! Last modified: 2021-10-10 10:21
 !
 !短链接
 @@goo.gl
@@ -254,6 +254,7 @@
 @@||client.wns.windows.com^$important
 @@||dmm.co.jp^$important
 @@||vmware.com^$important
+@@||www.paypalobjects.com^$important
 !
 !国内大站/app
 @@||zkres.myzaker.com^$important
