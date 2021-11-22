@@ -318,4 +318,5 @@
 @@||www.kanjiantu.com^$important
 @@||analytics.yinxiang.com^$important
 @@||pic.mairuan.com^$important
+@@||quapp.shenbabao.com^$important
 @@||dataprajna.net^$important
