@@ -107,6 +107,7 @@
 ||fpbbdx2.bmcx.com^$important
 ||fpbbdx1.bmcx.com^$important
 ||dybz*
+||banzhu*
 
 其他人分享的酷安广告域名
 ||dm-hl.toutiao.com
