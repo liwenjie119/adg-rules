@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2022-02-10 16:01
+! Last modified: 2022-03-13 01:54
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -106,6 +106,7 @@
 ||kr.axyqd.cn^$important
 ||fpbbdx2.bmcx.com^$important
 ||fpbbdx1.bmcx.com^$important
+||dybz*
 
 其他人分享的酷安广告域名
 ||dm-hl.toutiao.com
