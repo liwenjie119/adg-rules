@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2022-03-13 01:54
+! Last modified: 2022-10-15 16:54
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -56,7 +56,6 @@
 ||packet.cf^$important
 ||v.jingwoxin.com/huobao/2114/index.html^$important
 ||v.jingwoxin.com^$important
-/cloud/aliyun/youhui.jpg
 ||www.qtlianmeng.com
 ||www.sxeimg.com^$important
 ||xiaoluoyl.com^$important
@@ -135,7 +134,6 @@
 ||tnc3-alisc1.snssdk.com
 ||dm.bytedance.com
 ||pangolin.snssdk.com
-||i1.hdslb.com
 ||tnc3-aliec2.snssdk.com
 ||p26-be-pack-sign.pglstatp-toutiao.com
 ||api-access.pangolin-sdk-toutiao-b.com
