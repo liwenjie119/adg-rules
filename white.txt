@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2021-01-04 10:21
+! Last modified: 2022-11-18 12:53
 !
 !短链接
 @@goo.gl
@@ -192,6 +192,10 @@
 @@||dnet.mb.qq.com^$important
 @@||map.qq.com^$important
 @@||qun.qzone.qq.com^$important
+!qq音乐畅听广告
+@@||adstats.tencentmusic.com^$important
+@@||adsmind.gdtimg.com^$important
+@@||v.gdt.qq.com^$important
 !
 !网易系
 @@||126.net^$important
