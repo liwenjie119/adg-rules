@@ -1,5 +1,5 @@
 ! Title: LWJ's white list
-! Last modified: 2022-11-18 12:53
+! Last modified: 2023-04-10 22:15
 !
 !短链接
 @@goo.gl
@@ -131,6 +131,8 @@
 @@||alicdn.com^$important
 @@||dj.1688.com^$important
 @@||click.simba.taobao.com^$important
+!阿里云盘登录需要
+@@||acs.m.taobao.com^$important
 #代理游戏
 @@||na61-na62.wagbridge.advertisement.alibabacorp.com.gds.alibabadns.com^$important
 @@||na61-na62.wagbridge.advertisement.alibabacorp.com^$important
