@@ -243,6 +243,8 @@
 @@||jr.jd.com^$important
 @@||mars.jd.com^$important
 @@||wqsd.jd.com
+!京东一号店
+@@||yhd.com^$important
 !海外
 @@||self.events.data.microsoft.com^$important
 @@||bing.com^$important
