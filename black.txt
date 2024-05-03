@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2022-10-15 16:54
+! Last modified: 2024-10-15 16:54
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -111,7 +111,6 @@
 其他人分享的酷安广告域名
 ||dm-hl.toutiao.com
 ||dm-lq.toutiao.com
-||f.video.weibocdn.com
 ||access1.tpns.tencent.com
 ||dm.toutiao.com
 ||log.tpns.tencent.com
