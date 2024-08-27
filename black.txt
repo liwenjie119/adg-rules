@@ -1,5 +1,5 @@
 ! Title: LWJ's black list
-! Last modified: 2024-10-15 16:54
+! Last modified: 2024-8-27 09:05
 !
 !酷狗
 ||adsfileretry.service.kugou.com
@@ -105,6 +105,17 @@
 ||kr.axyqd.cn^$important
 ||fpbbdx2.bmcx.com^$important
 ||fpbbdx1.bmcx.com^$important
+||2708mc.bo2cdk.com^$important
+||7663caf8d231fa527wm.cc1tph.com^$important
+||1.b6beu5b6.cc^$important
+||cstj.sejie008.xyz^$important
+||14370.net^$important
+||www.mt144ti.vip^$important
+||edd26.yingguo996.com^$important
+||bujo439.xn--qprw1e7zgh30b1b3a.xn--55qx5d^$important
+||auai2951.xn--oor702fa592u.com^$important
+||2708tc.cw060d.com^$important
+||002d91b34425d7227wt.1yvcx5.com^$important
 ||dybz*
 ||banzhu*
 
